@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">绿色化电源菜单</string>
+    <string name="xposed">给电源菜单添加“绿色守护”快速休眠操作</string>
+    <string name="action_sleep">休眠并关闭屏幕</string>
+    <string name="text_state">长按启动绿色守护</string>
+</resources>
